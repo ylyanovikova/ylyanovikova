@@ -7,6 +7,11 @@
 ### Tools and languages:
 
 ![react](images/react.svg)
+![react](images/js.svg)
+![react](images/nodejs.svg)
+![react](images/html.svg)
+![react](images/css.svg)
+![react](images/git.svg)
+![react](images/sql.svg)
 
-This site was built using [GitHub Pages](https://pages.github.com/)
 
