@@ -6,7 +6,7 @@
 
 ### Tools and languages:
 
-![react](/git skills/react.svg)
+![react](images/react.svg)
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
