@@ -6,6 +6,5 @@
 
 ### Tools and languages:
 
+<img src="C:\Users\yulii\Downloads\git skills\react.svg"/>
 
-
-"C:\Users\yulii\Downloads\git skills\react.svg"
