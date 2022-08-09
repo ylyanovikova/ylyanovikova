@@ -6,7 +6,7 @@
 
 ### Tools and languages:
 
-![react](C:\Users\yulii\Downloads\git skills\react.svg)
+![react](./git skills/react.svg)
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
