@@ -13,7 +13,9 @@
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/js.svg" width="100"/>
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/react.svg" width="100"/>
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/sql.svg" width="100"/>
-  <img src=(images/react.svg) width="100"/>
+  <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/redux.png" width="100"/>
+  <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/mongoDB.png" width="100"/>
+  <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/angular.png" width="100"/>
 </div>
 
 
