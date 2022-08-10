@@ -19,8 +19,9 @@
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/bootstrap.svg" width="50"/>
 </div>
 
+<div  align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylyanovikova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylyanovikova)](https://github.com/anuraghazra/github-readme-stats) -->
 
