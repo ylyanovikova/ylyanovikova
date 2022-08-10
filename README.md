@@ -5,7 +5,13 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylyanovikova&theme=vue&show_icons=true) -->
 
 ### Tools and languages:
-
+<div id="header" align="center">
+  <img src=(images/react.svg) width="100"/>
+  <img src=(images/react.svg) width="100"/>
+  <img src=(images/react.svg) width="100"/>
+  <img src=(images/react.svg) width="100"/>
+  <img src=(images/react.svg) width="100"/>
+</div>
 ![react](images/react.svg)
 ![js](images/js.svg)
 ![node](images/nodejs.svg)
