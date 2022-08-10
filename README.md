@@ -6,7 +6,6 @@
 
 ### Tools and languages:
 <div id="header" align="center">
-  <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/bootstrap.svg" width="50"/>
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/css.svg" width="50"/>
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/git.svg" width="50"/>
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/html.svg" width="50"/>
@@ -16,6 +15,8 @@
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/redux.png" width="50"/>
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/mongoDB.png" width="50"/>
   <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/angular.png" width="50"/>
+  <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/nodejs.svg" width="50"/>
+  <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/bootstrap.svg" width="50"/>
 </div>
 
 
