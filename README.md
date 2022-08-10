@@ -6,7 +6,7 @@
 
 ### Tools and languages:
 <div id="header" align="center">
-  <img src=(images/react.svg) width="100"/>
+  <img src="https://github.com/ylyanovikova/ylyanovikova/blob/main/images/bootstrap.svg" width="100"/>
   <img src=(images/react.svg) width="100"/>
   <img src=(images/react.svg) width="100"/>
   <img src=(images/react.svg) width="100"/>
